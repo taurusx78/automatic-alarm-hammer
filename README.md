@@ -2,7 +2,7 @@
 #### 진행 기간 : 2018.05 ~ 2018.06 (2명)
 비상 탈출 망치에 연결된 아두이노의 버튼을 누르면 차량에 비치된 핸드폰에서 경보가 울리고, 버스 번호와 비상 상황을 알리는 메시지가 119로 전송됩니다.
 
-<img src="https://user-images.githubusercontent.com/56622731/131989774-9797c0a8-4b83-4817-bf55-af9c983d6346.png" width="600"><
+<img src="https://user-images.githubusercontent.com/56622731/131989774-9797c0a8-4b83-4817-bf55-af9c983d6346.png" width="600">
 <br><br>
 
 #### [파일 설명]
